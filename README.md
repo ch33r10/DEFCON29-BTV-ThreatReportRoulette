@@ -6,7 +6,7 @@
 Threat Report Roulette will not discuss running back IOCs in the environment, such as IPs, Domains, and hashes. Instead, the participants will focus on pivoting, TTPs and how they would take the contents in the Threat Report to the <b>NEXT LEVEL</b>! When the Panelists respond to the threat reports, they are operating under the assumption that they preformed the preliminary analysis and deemed the threat report relevant to their environment. The purpose of this assumption is to decrease the amount of debate on whether or not something is relevant to get to the part of the analysis that involves extracting actionable takeaways. 🤜💥🤛
 <p></p>
 <ol>
-  <li>Spin the Threat Report Roulette Wheel - <a href="https://tools-unite.com/tools/random-picker-wheel">Link</a></li>
+  <li>Spin the Threat Report Roulette Wheel - <a href="https://tools-unite.com/tools/random-picker-wheel?names=ACADEMIC%20ARTICLE,BC%20SECURITY%201,BC%20SECURITY%202,CISA%201,CISA%202,CISA%203,CISA%204,ESET,FBI%20FLASH%201,FBI%20FLASH%202,FIREEYE%201,FIREEYE%202,RED%20CANARY,SECURELIST,SPECTEROPS,THEDFIRREPORT1,THEDFIRREPORT2">Link</a></li>
   <li>Moderator calls on Participant.</li>
   <li>Participant is in the Hot Seat:</li>
     <ul><li>15 seconds to organize their thoughts.</li></ul>
