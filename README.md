@@ -1,4 +1,4 @@
-# ![ThreatReportRoulette header](https://github.com/ch33r10/DEFCON29-BTV-ThreatReportRoulette/blob/main/img/ThreatReportRoulette.png)
+# ![ThreatReportRoulette header](https://github.com/ch33r10/DEFCON29-BTV-ThreatReportRoulette/blob/main/img/ThreatReportRoulette1.png)
 <p><h3 align="center"><b>ABSTRACT</b></h3></p>
 <p align="center">Follow along as we spin the Threat Report Roulette Wheel and provide rapid fire responses to how we would create actionable takeaways from the publicly available, TLP: White Threat Reports. Pick up some tips and tricks to up your game!</p>
 <hr></hr>
@@ -42,6 +42,7 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
   <ul><li>Detection Ideas Repo by Vadim Khrykov @DarkMatter23 - <a href="https://github.com/vadim-hunter/Detection-Ideas-Rules/blob/main/Threat%20Intelligence/The%20DFIR%20Report/20210329_Sodinokibi_(aka_REvil)_Ransomware.yaml">Link</a></li></ul>
 </ul>
 <p><h1 align="left">🕹️<b>PANELISTS</b></h1></p>
+<p><h3 align="center"><b>THE CYBER THREAT INTELLIGENCE PROFESSIONALS</p></h3></b>
 <p><h3 align="left">CHRIS RUSSELL 
 <a href="https://twitter.com/cr00ster"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
 <a href="https://www.linkedin.com/in/christopher-russell-5a9b20a7/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a></h3></p>
@@ -55,25 +56,12 @@ Christopher Russell is the Head of Information Security for tZERO Group Inc. He 
 <p align="left">
 Danny Henderson Jr. is a USAF veteran who is now an expat working as a Senior Cybersecurity Analyst at SecureWorks in Romania. He is a graduate of Capitol Technology University with MSc in Cyber and Information Security, six GIAC certifications in DFIR and Offensive Security. 
 </p>
-<p><h3 align="left">JORGE ORCHILLES 
-<a href="https://twitter.com/jorgeorchilles"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
-<a href="https://www.linkedin.com/in/jorgeorchilles/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
-<a href="https://github.com/jorgeorchilles"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a></h3></p>
-<p align="left">
-Jorge Orchilles is the Chief Technology Officer of SCYTHE, co-creator of the C2 Matrix project, and author of the Purple Team Exercise Framework. He is a SANS Certified Instructor and the author of Security 564: Red Team Exercises and Adversary Emulation. 
-</p>
 <p><h3 align="left">KARAN ADITYA GHOSHAL, @0xDISREL  
 <a href="https://twitter.com/0xDISREL"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
 <a href="https://www.linkedin.com/in/flaexeorant/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
 <a href="https://github.com/DISREL"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a></h3></p>
 <p align="left">
 Karan Aditya Ghoshal is a CTI Analyst at a Big Four cybersecurity firm. He is currently pursuing his Bachelors in Computer Science Engineering at Manav Rachna University. 
-</p>
-<p><h3 align="left">RICKY BANDA, @teck923 
-<a href="https://twitter.com/teck923"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
-<a href="https://www.linkedin.com/in/jbanda923/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a></h3></p>
-<p align="left">
-Ricky Banda is a Incident Commander for the Amazon Security Incident Response Team. He is a SANS MSISE Graduate Student, with over a dozen industry certifications and featured author in Tribe of Hackers: Blue Team Edition. He has over a decade of experience in Security Operations and Incident Response working in both Public and Private sectors.
 </p>
 <p><h3 align="left">WILL THOMAS, @BushidoToken 
 <a href="https://twitter.com/BushidoToken"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
@@ -83,13 +71,43 @@ Ricky Banda is a Incident Commander for the Amazon Security Incident Response Te
 <p align="left">
 Will Thomas is a security researcher at Cyjax, a UK-based Cyber Threat Intelligence vendor. In his spare time, he offers his OSINT skills to work missing persons cases with the NCPTF and is a board member of the Curated Intelligence trust group. Will graduated with a BSc (Hons) in Computer and Information Security from the University of Plymouth.
 </p>
-<p><h3 align="left">XENA OLSEN, @Ch33r10   
+<p><h3 align="left">XENA OLSEN, @Ch33r10  
 <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
 <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
 <a href="https://github.com/ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a></h3></p>
 <p align="left">
 Xena Olsen is a Senior Cybersecurity Analyst at a Fortune 500 Company. She is a graduate of SANS Women’s Academy with eight GIAC certifications, an MBA in IT management, and a doctoral student in cybersecurity at Marymount University. 
 </p>
+<br></br>
+<p><h3 align="center"><b>THE STAKEHOLDERS</p></h3></b>
+<p><h3 align="left">BLIND HACKER JoeB 
+<a href="https://twitter.com/TheBlindHacker"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
+<a href="https://github.com/theblindhacker"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a><b> 💥RED💥</b></p></h3>
+<p align="left">
+The Blind Hacker is an InfoSec enthusiast, mentor, coach, pentester, hacker, and more. He regularly mentors online through streams and online communities. He frequently volunteers time on workplace development for others, gives resume reviews, job advice, and coaches people into the roles they want with mock interviews. As a person with a disability, or who is differently-abled, he has never let it slow him down. 
+</p>
+<p><h3 align="left">JORGE ORCHILLES 
+<a href="https://twitter.com/jorgeorchilles"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
+<a href="https://www.linkedin.com/in/jorgeorchilles/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
+<a href="https://github.com/jorgeorchilles"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a><b> 💥RED & PURPLE💥</b></h3></p>
+<p align="left">
+Jorge Orchilles is the Chief Technology Officer of SCYTHE, co-creator of the C2 Matrix project, and author of the Purple Team Exercise Framework. He is a SANS Certified Instructor and the author of Security 564: Red Team Exercises and Adversary Emulation. 
+</p>
+<p><h3 align="left">RICKY BANDA, @teck923 
+<a href="https://twitter.com/teck923"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
+<a href="https://www.linkedin.com/in/jbanda923/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a><b> 💥DFIR💥</b></h3></p>
+<p align="left">
+Ricky Banda is a Incident Commander for the Amazon Security Incident Response Team. He is a SANS MSISE Graduate Student, with over a dozen industry certifications and featured author in Tribe of Hackers: Blue Team Edition. He has over a decade of experience in Security Operations and Incident Response working in both Public and Private sectors.
+</p>
+</p>
+<p><h3 align="left">XENA OLSEN, @Ch33r10   
+<a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
+<a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
+<a href="https://github.com/ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a><b> 💥HUNT💥</b></h3></p>
+<p align="left">
+Xena Olsen is a Senior Cybersecurity Analyst at a Fortune 500 Company. She is a graduate of SANS Women’s Academy with eight GIAC certifications, an MBA in IT management, and a doctoral student in cybersecurity at Marymount University. 
+</p>
+
 <p><h1 align="center">💎<b>THANK YOU</b>💎</h1></p>
 <ul>
 Thank you to BlueTeamVillage for hosting us, DEF CON, the participants, and the people that provided the Threat Reports, Security Research and More that made this panel possible! <3
