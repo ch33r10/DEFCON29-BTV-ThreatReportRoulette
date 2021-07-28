@@ -49,13 +49,6 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <p align="left">
 Christopher Russell is the Head of Information Security for tZERO Group Inc. He has a Masters Degree in Cybersecurity and numerous certifications and experience in cloud security, endpoint detection and response, SIEM and blockchain. He is a combat Veteran of the US Army, where he was a human intelligence (HUMINT) collector who graduated from the Defense Language Institute, for Arabic. 
 </p>
-<p><h3 align="left">DANNY D. HENDERSON JR., @B4nd1t0_ 
-<a href="https://twitter.com/B4nd1t0_"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
-<a href="https://www.linkedin.com/in/danny-henderson-jr-77970192/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
-<a href="https://github.com/B4nd1t0"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a></h3></p>
-<p align="left">
-Danny Henderson Jr. is a USAF veteran who is now an expat working as a Senior Cybersecurity Analyst at SecureWorks in Romania. He is a graduate of Capitol Technology University with MSc in Cyber and Information Security, six GIAC certifications in DFIR and Offensive Security. 
-</p>
 <p><h3 align="left">KARAN ADITYA GHOSHAL, @0xDISREL  
 <a href="https://twitter.com/0xDISREL"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
 <a href="https://www.linkedin.com/in/flaexeorant/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
@@ -85,6 +78,13 @@ Xena Olsen is a Senior Cybersecurity Analyst at a Fortune 500 Company. She is a 
 <a href="https://github.com/theblindhacker"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a><b> 💥RED💥</b></p></h3>
 <p align="left">
 The Blind Hacker is an InfoSec enthusiast, mentor, coach, pentester, hacker, and more. He regularly mentors online through streams and online communities. He frequently volunteers time on workplace development for others, gives resume reviews, job advice, and coaches people into the roles they want with mock interviews. As a person with a disability, or who is differently-abled, he has never let it slow him down. 
+</p>
+<p><h3 align="left">DANNY D. HENDERSON JR., @B4nd1t0_ 
+<a href="https://twitter.com/B4nd1t0_"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
+<a href="https://www.linkedin.com/in/danny-henderson-jr-77970192/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
+<a href="https://github.com/B4nd1t0"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/GitHub-Mark-64px.png"></a><b> 💥DFIR💥</b></h3></p>
+<p align="left">
+Danny Henderson Jr. is a USAF veteran who is now an expat working as a Senior Cybersecurity Analyst at SecureWorks in Romania. He is a graduate of Capitol Technology University with MSc in Cyber and Information Security, six GIAC certifications in DFIR and Offensive Security. 
 </p>
 <p><h3 align="left">JORGE ORCHILLES 
 <a href="https://twitter.com/jorgeorchilles"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
