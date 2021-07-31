@@ -33,7 +33,7 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>FIREEYE #2 - Smoking Out a DARKSIDE Affiliate's Supply Chain Software Compromise by Tyler McLellan, Robert Dean, Justin Moore, Nick Harbour, Mike Hunhoff, Jared Wilson, and Jordan Nuce - <a href="https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html">Link</a></li>
 <li>MYSTERY - <a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/">Link #1</a></li>
 <li>Red Canary - What is normal? Profiling System32 binaries to detect DLL Search Order Hijacking by Michael Haag and Shane Welcher - <a href="https://redcanary.com/blog/system32-binaries/">Link</a></li>
-<li>SCYTHE - Threat Thursday Top Ransomware TTPs by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-top-ransomware-ttps">Link</a></li>
+<li>SCYTHE - Threat Thursday Top Ransomware TTPs by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-top-ransomware-ttps">Link</a> & Threat Thursday Conti Ransomware by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-conti-ransomware">Link</a></li>
 <li>SECURELIST - Black Kingdom ransomware by Marc Rivero - <a href="https://securelist.com/black-kingdom-ransomware/102873/">Link</a></li>
   <ul><li>Additional Resource: Dragos - Threat Intelligence and the Limits of Malware Analysis by Joe Slowik - <a href="https://www.dragos.com/wp-content/uploads/Threat-Intelligence-and-the-Limits-of-Malware-Analysis.pdf">Link</a></li></ul>
 <li>SpecterOps - Certified Pre-Owned by Will Schroeder and Lee Christensen - <a href="https://posts.specterops.io/certified-pre-owned-d95910965cd2">Link</a></li>
