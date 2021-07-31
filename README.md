@@ -20,6 +20,8 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>Academic Article - An Empirical Assessment of Endpoint Detection and Response Systems against Advanced Persistent Threats Attack Vectors by George Karantzas and Constantinos Patsakis - <a href="https://www.mdpi.com/2624-800X/1/3/21/htm">Link</a></li>
 <li>BC Security #1 - XLS Entanglement by Hubbl3 - <a href="https://www.bc-security.org/post/xls-entanglement/">Link</a></li>
 <li>BC Security #2 - Overview of Empire 4.0 and C# by CX01N - <a href="https://www.bc-security.org/post/overview-of-empire-4-0-and-c/">Link</a></li>
+<ul><li>SANS Paper Resource shared during Threat Report Roulette - Disrupting the Empire: Identifying PowerShell Empire C2 Activity by Michael C. Long II - <a href="https://www.giac.org/paper/gcfa/13277/disrupting-empire-identifying-powershell-empire-command-control-activity/152744">Link</a></li></ul>
+<ul><li>
 <li>CISA #1 - Chinese State-Sponsored Cyber Operations: Observed TTPs - <a href="https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/0/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF">Link</a></li>
 <li>CISA #2 - Malware Analysis Report - Cobalt Strike Beacon - <a href="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-148a">Link</a></li>
 <li>CISA #3 - Malware Targeting Pulse Secure Devices - <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/07/21/malware-targeting-pulse-secure-devices">Link</a></li>
@@ -31,9 +33,15 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>FBI Flash #2 - APT Actors Exploiting Fortinet Vulnerabilities to Gain Access for Malicious Activity - <a href="https://github.com/ch33r10/DEFCON29-BTV-ThreatReportRoulette/blob/main/ThreatReport/FBI%20Flash%20Fortinet-2.pdf">Link</a></li>
 <li>FIREEYE #1 - Cyber Threats to the Financial Services and Insurance Industries - <a href="https://www.fireeye.com/content/dam/fireeye-www/solutions/pdfs/ib-finance.pdf">Link</a></li>
 <li>FIREEYE #2 - Smoking Out a DARKSIDE Affiliate's Supply Chain Software Compromise by Tyler McLellan, Robert Dean, Justin Moore, Nick Harbour, Mike Hunhoff, Jared Wilson, and Jordan Nuce - <a href="https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html">Link</a></li>
-<li>MYSTERY - <a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/">Link #1</a></li>
+<li>MYSTERY - (MICROSOFT - BazaCall: Phony call centers lead to exfiltration and ransomware by Microsoft 365 Defender Threat Intelligence Team - <a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/">Link</a></li>
+  <ul><li>WizardSpider using legitimate services as cloak of invisibility by William Thomas - <a href="https://www.cyjax.com/2021/04/20/wizardspider-using-legitimate-services-as-cloak-of-invisibility/">Link</a></ul></li>
+  <ul><li>Palo Alto Networks Unit 42 - Tweet on #Bazaloader with IOCs - <a href="https://twitter.com/Unit42_Intel/status/1421117403644186629">Tweet Link</a> & <a href="https://github.com/pan-unit42/tweets/blob/master/2021-07-29-IOCs-for-BazarLoader-CobaltStrike-PrintNightmare.txt">IOCs Link</a></li></ul>  
 <li>Red Canary - What is normal? Profiling System32 binaries to detect DLL Search Order Hijacking by Michael Haag and Shane Welcher - <a href="https://redcanary.com/blog/system32-binaries/">Link</a></li>
-<li>SCYTHE - Threat Thursday Top Ransomware TTPs by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-top-ransomware-ttps">Link</a> & Threat Thursday Conti Ransomware by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-conti-ransomware">Link</a></li>
+  <li>SCYTHE - Threat Thursday</li>
+ 
+  <ul><li>Conti Ransomware by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-conti-ransomware">Link</a></ul></li>
+  <ul><li>Evading Defenses with ISO files like NOBELIUM - <a href="https://www.scythe.io/library/threat-thursday-evading-defenses-with-iso-files-like-nobelium">Link</a></ul></li>
+   <ul><li>Top Ransomware TTPs by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-top-ransomware-ttps">Link</a></ul></li>
 <li>SECURELIST - Black Kingdom ransomware by Marc Rivero - <a href="https://securelist.com/black-kingdom-ransomware/102873/">Link</a></li>
   <ul><li>Additional Resource: Dragos - Threat Intelligence and the Limits of Malware Analysis by Joe Slowik - <a href="https://www.dragos.com/wp-content/uploads/Threat-Intelligence-and-the-Limits-of-Malware-Analysis.pdf">Link</a></li></ul>
 <li>SpecterOps - Certified Pre-Owned by Will Schroeder and Lee Christensen - <a href="https://posts.specterops.io/certified-pre-owned-d95910965cd2">Link</a></li>
@@ -42,6 +50,7 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>The DFIR Report #2 - Sodinokibi (aka REvil) Ransomware - <a href="https://thedfirreport.com/2021/03/29/sodinokibi-aka-revil-ransomware/">Link</a></li>
   <ul><li>Detection Tweet by Vadim Khrykov @DarkMatter23 - <a href="https://twitter.com/BlackMatter23/status/1417512771202260997?s=20">Link</a></li></ul>
   <ul><li>Detection Ideas Repo by Vadim Khrykov @DarkMatter23 - <a href="https://github.com/vadim-hunter/Detection-Ideas-Rules/blob/main/Threat%20Intelligence/The%20DFIR%20Report/20210329_Sodinokibi_(aka_REvil)_Ransomware.yaml">Link</a></li></ul>
+  <ul><li>Tweet by Jorge Orchilles on the share during Threat Report Roulette by <a href="https://twitter.com/cr00ster">@cr00ster</a> - <a href="https://twitter.com/jorgeorchilles/status/1421475888387043342">Link</a></li></ul>  
 </ul>
 <p><h1 align="left">✨<b>FAV RESOURCES</b></h1></p>
 <p>
