@@ -6,7 +6,7 @@
 Threat Report Roulette will not discuss normal (BAU) CTI actions, such as searching the logs for hits on the IOCs or entering the IOCs into a Threat Intelligence Platform (TIP) or other alerting platform. Instead, the participants will focus on pivoting, TTPs, and how they would take the contents in the Threat Report to the <b>NEXT LEVEL</b>! When the Panelists respond to the threat reports, they are operating under the assumption that they performed the preliminary analysis and deemed the threat report relevant to their environment. The purpose of this assumption is to decrease the amount of debate on whether or not something is relevant to get to the part of the analysis that involves extracting actionable takeaways. 🤜💥🤛
 <p></p>
 <ol>
-  <li>Spin the Threat Report Roulette Wheel - <a href="https://tools-unite.com/tools/random-picker-wheel?names=ACADEMIC%20ARTICLE,BC%20SECURITY%201,BC%20SECURITY%202,CISA%201,CISA%202,CISA%203,CISA%204,ESET,FBI%20FLASH%201,FBI%20FLASH%202,FIREEYE%201,FIREEYE%202,RED%20CANARY,SECURELIST,SPECTEROPS,THEDFIRREPORT1,THEDFIRREPORT2">Link</a></li>
+  <li>Spin the Threat Report Roulette Wheel - <a href="https://tools-unite.com/tools/random-picker-wheel?names=ACADEMIC%20ARTICLE,BC%20SECURITY%201,BC%20SECURITY%202,CISA%201,CISA%202,CISA%203,CISA%204,ESET,FBI%20FLASH%201,FBI%20FLASH%202,FIREEYE%201,FIREEYE%202,RED%20CANARY,SECURELIST,SPECTEROPS,THEDFIRREPORT1,THEDFIRREPORT2,MYSTERY">Link</a></li>
   <li>Moderator calls on Participant.</li>
   <li>Participant is in the Hot Seat:</li>
     <ul><li>15 seconds to organize their thoughts.</li></ul>
@@ -31,6 +31,7 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>FBI Flash #2 - APT Actors Exploiting Fortinet Vulnerabilities to Gain Access for Malicious Activity - <a href="https://github.com/ch33r10/DEFCON29-BTV-ThreatReportRoulette/blob/main/ThreatReport/FBI%20Flash%20Fortinet-2.pdf">Link</a></li>
 <li>FIREEYE #1 - Cyber Threats to the Financial Services and Insurance Industries - <a href="https://www.fireeye.com/content/dam/fireeye-www/solutions/pdfs/ib-finance.pdf">Link</a></li>
 <li>FIREEYE #2 - Smoking Out a DARKSIDE Affiliate's Supply Chain Software Compromise by Tyler McLellan, Robert Dean, Justin Moore, Nick Harbour, Mike Hunhoff, Jared Wilson, and Jordan Nuce - <a href="https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html">Link</a></li>
+<li>MYSTERY - <a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/">Link</a></li>
 <li>Red Canary - What is normal? Profiling System32 binaries to detect DLL Search Order Hijacking by Michael Haag and Shane Welcher - <a href="https://redcanary.com/blog/system32-binaries/">Link</a></li>
 <li>SECURELIST - Black Kingdom ransomware by Marc Rivero - <a href="https://securelist.com/black-kingdom-ransomware/102873/">Link</a></li>
   <ul><li>Additional Resource: Dragos - Threat Intelligence and the Limits of Malware Analysis by Joe Slowik - <a href="https://www.dragos.com/wp-content/uploads/Threat-Intelligence-and-the-Limits-of-Malware-Analysis.pdf">Link</a></li></ul>
