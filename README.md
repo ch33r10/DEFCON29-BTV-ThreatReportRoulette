@@ -6,7 +6,7 @@
 Threat Report Roulette will not discuss normal (BAU) CTI actions, such as searching the logs for hits on the IOCs or entering the IOCs into a Threat Intelligence Platform (TIP) or other alerting platform. Instead, the participants will focus on pivoting, TTPs, and how they would take the contents in the Threat Report to the <b>NEXT LEVEL</b>! When the Panelists respond to the threat reports, they are operating under the assumption that they performed the preliminary analysis and deemed the threat report relevant to their environment. The purpose of this assumption is to decrease the amount of debate on whether or not something is relevant to get to the part of the analysis that involves extracting actionable takeaways. 🤜💥🤛
 <p></p>
 <ol>
-  <li>Spin the Threat Report Roulette Wheel - <a href="https://tools-unite.com/tools/random-picker-wheel?names=ACADEMIC%20ARTICLE,BC%20SECURITY%201,BC%20SECURITY%202,CISA%201,CISA%202,CISA%203,CISA%204,ESET,FBI%20FLASH%201,FBI%20FLASH%202,FIREEYE%201,FIREEYE%202,RED%20CANARY,SECURELIST,SPECTEROPS,THEDFIRREPORT1,THEDFIRREPORT2,MYSTERY">Link</a></li>
+  <li>Spin the Threat Report Roulette Wheel - <a href="https://tools-unite.com/tools/random-picker-wheel?names=ACADEMIC%20ARTICLE,BC%20SECURITY%201,BC%20SECURITY%202,CISA%201,CISA%202,CISA%203,CISA%204,ESET,FBI%20FLASH%201,FBI%20FLASH%202,FIREEYE%201,FIREEYE%202,RED%20CANARY,SCYTHE,SECURELIST,SPECTEROPS,THEDFIRREPORT1,THEDFIRREPORT2,MYSTERY">Link</a></li>
   <li>Moderator calls on Participant.</li>
   <li>Participant is in the Hot Seat:</li>
     <ul><li>15 seconds to organize their thoughts.</li></ul>
@@ -31,8 +31,9 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>FBI Flash #2 - APT Actors Exploiting Fortinet Vulnerabilities to Gain Access for Malicious Activity - <a href="https://github.com/ch33r10/DEFCON29-BTV-ThreatReportRoulette/blob/main/ThreatReport/FBI%20Flash%20Fortinet-2.pdf">Link</a></li>
 <li>FIREEYE #1 - Cyber Threats to the Financial Services and Insurance Industries - <a href="https://www.fireeye.com/content/dam/fireeye-www/solutions/pdfs/ib-finance.pdf">Link</a></li>
 <li>FIREEYE #2 - Smoking Out a DARKSIDE Affiliate's Supply Chain Software Compromise by Tyler McLellan, Robert Dean, Justin Moore, Nick Harbour, Mike Hunhoff, Jared Wilson, and Jordan Nuce - <a href="https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html">Link</a></li>
-<li>MYSTERY - <a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/">Link</a></li>
+<li>MYSTERY - <a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/">Link #1</a></li>
 <li>Red Canary - What is normal? Profiling System32 binaries to detect DLL Search Order Hijacking by Michael Haag and Shane Welcher - <a href="https://redcanary.com/blog/system32-binaries/">Link</a></li>
+<li>SCYTHE - Threat Thursday Top Ransomware TTPs by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-top-ransomware-ttps">Link</a></li>
 <li>SECURELIST - Black Kingdom ransomware by Marc Rivero - <a href="https://securelist.com/black-kingdom-ransomware/102873/">Link</a></li>
   <ul><li>Additional Resource: Dragos - Threat Intelligence and the Limits of Malware Analysis by Joe Slowik - <a href="https://www.dragos.com/wp-content/uploads/Threat-Intelligence-and-the-Limits-of-Malware-Analysis.pdf">Link</a></li></ul>
 <li>SpecterOps - Certified Pre-Owned by Will Schroeder and Lee Christensen - <a href="https://posts.specterops.io/certified-pre-owned-d95910965cd2">Link</a></li>
@@ -42,6 +43,23 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
   <ul><li>Detection Tweet by Vadim Khrykov @DarkMatter23 - <a href="https://twitter.com/BlackMatter23/status/1417512771202260997?s=20">Link</a></li></ul>
   <ul><li>Detection Ideas Repo by Vadim Khrykov @DarkMatter23 - <a href="https://github.com/vadim-hunter/Detection-Ideas-Rules/blob/main/Threat%20Intelligence/The%20DFIR%20Report/20210329_Sodinokibi_(aka_REvil)_Ransomware.yaml">Link</a></li></ul>
 </ul>
+<p><h1 align="left">✨<b>FAV RESOURCES</b></h1></p>
+<p>
+ <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
+ <li>Community Threats by SCYTHE - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
+ <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
+ <li>MITRE ATT&CK - <a href="https://attack.mitre.org/">Link</a></li>
+ <li>MITRE CAR - Cyber Analytics Repository - <a href="https://car.mitre.org/">Link</a></li>
+ <li>MITRE D3FEND - <a href="https://d3fend.mitre.org/">Link</a></li>
+ <li>MITRE SHIELD - <a href="https://shield.mitre.org/matrix/">Link</a></li>
+ <li>MITRE ATT&CK Navigator - <a href="https://mitre-attack.github.io/attack-navigator/">Link</a></li>
+ <li>Purple Team Exercise Framework (PTEF) by SCYTHE - <a href="https://www.scythe.io/ptef">Link</a></li>
+ <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
+ <li>SpecterOps Blog - <a href="https://posts.specterops.io/">Link</a></li>
+ <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
+ <li>Threat Thursday by SCYTHE - <a href="https://www.scythe.io/threatthursday">Link</a></li>
+  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
+</p>
 <p><h1 align="left">🕹️<b>PANELISTS</b></h1></p>
 <p><h3 align="center"><b>THE CYBER THREAT INTELLIGENCE PROFESSIONALS</p></h3></b>
 <p><h3 align="left">CHRIS RUSSELL 
