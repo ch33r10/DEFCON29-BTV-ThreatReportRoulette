@@ -21,7 +21,6 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>BC Security #1 - XLS Entanglement by Hubbl3 - <a href="https://www.bc-security.org/post/xls-entanglement/">Link</a></li>
 <li>BC Security #2 - Overview of Empire 4.0 and C# by CX01N - <a href="https://www.bc-security.org/post/overview-of-empire-4-0-and-c/">Link</a></li>
 <ul><li>SANS Paper Resource shared during Threat Report Roulette - Disrupting the Empire: Identifying PowerShell Empire C2 Activity by Michael C. Long II - <a href="https://www.giac.org/paper/gcfa/13277/disrupting-empire-identifying-powershell-empire-command-control-activity/152744">Link</a></li></ul>
-<ul><li>
 <li>CISA #1 - Chinese State-Sponsored Cyber Operations: Observed TTPs - <a href="https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/0/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF">Link</a></li>
 <li>CISA #2 - Malware Analysis Report - Cobalt Strike Beacon - <a href="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-148a">Link</a></li>
 <li>CISA #3 - Malware Targeting Pulse Secure Devices - <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/07/21/malware-targeting-pulse-secure-devices">Link</a></li>
