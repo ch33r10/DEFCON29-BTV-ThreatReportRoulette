@@ -20,7 +20,10 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>Academic Article - An Empirical Assessment of Endpoint Detection and Response Systems against Advanced Persistent Threats Attack Vectors by George Karantzas and Constantinos Patsakis - <a href="https://www.mdpi.com/2624-800X/1/3/21/htm">Link</a></li>
 <li>BC Security #1 - XLS Entanglement by Hubbl3 - <a href="https://www.bc-security.org/post/xls-entanglement/">Link</a></li>
 <li>BC Security #2 - Overview of Empire 4.0 and C# by CX01N - <a href="https://www.bc-security.org/post/overview-of-empire-4-0-and-c/">Link</a></li>
-<ul><li>SANS Paper Resource shared during Threat Report Roulette - Disrupting the Empire: Identifying PowerShell Empire C2 Activity by Michael C. Long II - <a href="https://www.giac.org/paper/gcfa/13277/disrupting-empire-identifying-powershell-empire-command-control-activity/152744">Link</a></li></ul>
+<ul><li>SANS Resource shared during Threat Report Roulette - Disrupting the Empire: Identifying PowerShell Empire C2 Activity by Michael C. Long II - <a href="https://www.giac.org/paper/gcfa/13277/disrupting-empire-identifying-powershell-empire-command-control-activity/152744">Link</a></li></ul>
+<ul><li>Sigma Rule: Empire PowerShell Launch Parameters - <a href="https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_powershell_empire_launch.yml">Link</a></ul></li>
+<ul><li>Sigma Rule: Empire PowerShell UAC Bypass - <a href="https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_powershell_empire_uac_bypass.yml">Link</a></ul></li>
+<ul><li>Sigma Rule: Empire UserAgent URI Combo - <a href="https://github.com/SigmaHQ/sigma/blob/master/rules/proxy/proxy_empire_ua_uri_combos.yml">Link</a></ul></li>
 <li>CISA #1 - Chinese State-Sponsored Cyber Operations: Observed TTPs - <a href="https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/0/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF">Link</a></li>
 <li>CISA #2 - Malware Analysis Report - Cobalt Strike Beacon - <a href="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-148a">Link</a></li>
 <li>CISA #3 - Malware Targeting Pulse Secure Devices - <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/07/21/malware-targeting-pulse-secure-devices">Link</a></li>
@@ -46,10 +49,15 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>SpecterOps - Certified Pre-Owned by Will Schroeder and Lee Christensen - <a href="https://posts.specterops.io/certified-pre-owned-d95910965cd2">Link</a></li>
   <ul><li>BlackHat USA 2021 Briefing - Certified Pre-Owned: Abusing Active Directory Certificate Services by Will Schroeder and Lee Christensen - <a href="https://www.blackhat.com/us-21/briefings/schedule/#certified-pre-owned-abusing-active-directory-certificate-services-23168">Link</a></li></ul>
 <li>The DFIR Report #1 - IcedID and Cobalt Strike vs Antivirus - <a href="https://thedfirreport.com/2021/07/19/icedid-and-cobalt-strike-vs-antivirus/">Link</a></li>
+<ul><li>Cyborg Security - Ransomware: Hunting for Inhibiting System Backup or Recovery - <a href="https://www.cyborgsecurity.com/cyborg_labs/hunting-ransomware-inhibiting-system-backup-or-recovery/">Link</a></ul></li>
+<ul><li>Identify when CobaltStrike is spawning a shell without parameters (Process Hollowing) by Dan Lussier - <a href="https://github.com/the2dl/chronicle_detection_public/blob/main/detections/cobaltstrike_spawn_process.yaral">Link</a></ul></li>
+<ul><li>Sigma Rule: Quick Execution of a Series of Suspicious Commands - <a href="https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_multiple_suspicious_cli.yml">Link</a></ul></li>
+<ul><ul><li>MITRE Cyber Analytics Repository - CAR-2013-04-002: Quick execution of a series of suspicious commands - <a href="https://car.mitre.org/analytics/CAR-2013-04-002/">Link</a></ul></ul></li>
 <li>The DFIR Report #2 - Sodinokibi (aka REvil) Ransomware - <a href="https://thedfirreport.com/2021/03/29/sodinokibi-aka-revil-ransomware/">Link</a></li>
   <ul><li>Detection Tweet by Vadim Khrykov @DarkMatter23 - <a href="https://twitter.com/BlackMatter23/status/1417512771202260997?s=20">Link</a></li></ul>
   <ul><li>Detection Ideas Repo by Vadim Khrykov @DarkMatter23 - <a href="https://github.com/vadim-hunter/Detection-Ideas-Rules/blob/main/Threat%20Intelligence/The%20DFIR%20Report/20210329_Sodinokibi_(aka_REvil)_Ransomware.yaml">Link</a></li></ul>
-  <ul><li>Tweet by Jorge Orchilles on the share during Threat Report Roulette by <a href="https://twitter.com/cr00ster">@cr00ster</a> - <a href="https://twitter.com/jorgeorchilles/status/1421475888387043342">Link</a></li></ul>  
+  <ul><li>Tweet by Jorge Orchilles on the share during Threat Report Roulette by <a href="https://twitter.com/cr00ster">@cr00ster</a> - <a href="https://twitter.com/jorgeorchilles/status/1421475888387043342">Link</a></li></ul>
+  <ul><ul><li>Run and RunOnce Registry Keys - <a href="https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys">Link</a></ul></ul></li>
 </ul>
 <p><h1 align="left">✨<b>FAV RESOURCES</b></h1></p>
 <p>
