@@ -41,7 +41,7 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
   <ul><li>Palo Alto Networks Unit 42 - Tweet on #Bazaloader with IOCs - <a href="https://twitter.com/Unit42_Intel/status/1421117403644186629">Tweet Link</a> & <a href="https://github.com/pan-unit42/tweets/blob/master/2021-07-29-IOCs-for-BazarLoader-CobaltStrike-PrintNightmare.txt">IOCs Link</a></li></ul>  
 <li>Red Canary - What is normal? Profiling System32 binaries to detect DLL Search Order Hijacking by Michael Haag and Shane Welcher - <a href="https://redcanary.com/blog/system32-binaries/">Link</a></li>
   <li>SCYTHE - Threat Thursday</li>
- 
+ <ul><li>BSides SATX Talk - Operationalizing Purple Team by Jorge Orchilles - <a href="https://youtu.be/NAH_t9rp8n0">Link</a></ul></li>
   <ul><li>Conti Ransomware by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-conti-ransomware">Link</a></ul></li>
   <ul><li>Evading Defenses with ISO files like NOBELIUM - <a href="https://www.scythe.io/library/threat-thursday-evading-defenses-with-iso-files-like-nobelium">Link</a></ul></li>
    <ul><li>Top Ransomware TTPs by Jorge Orchilles - <a href="https://www.scythe.io/library/threat-thursday-top-ransomware-ttps">Link</a></ul></li>
