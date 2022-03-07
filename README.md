@@ -20,7 +20,7 @@ Threat Report Roulette will not discuss normal (BAU) CTI actions, such as search
 <li>Academic Article - An Empirical Assessment of Endpoint Detection and Response Systems against Advanced Persistent Threats Attack Vectors by George Karantzas and Constantinos Patsakis - <a href="https://www.mdpi.com/2624-800X/1/3/21/htm">Link</a></li>
 <li>BC Security #1 - XLS Entanglement by Hubbl3 - <a href="https://www.bc-security.org/post/xls-entanglement/">Link</a></li>
 <li>BC Security #2 - Overview of Empire 4.0 and C# by CX01N - <a href="https://www.bc-security.org/post/overview-of-empire-4-0-and-c/">Link</a></li>
-<ul><li>DEF CON 18 - PowerShell omfg... with David Kennedy and Josh Kelley - < a href="https://youtu.be/JKlVONfD53w">Link</a></ul></li>
+<ul><li>DEF CON 18 - PowerShell omfg... with David Kennedy and Josh Kelley - <a href="https://youtu.be/JKlVONfD53w">Link</a></ul></li>
 <ul><li>SANS Resource shared during Threat Report Roulette - Disrupting the Empire: Identifying PowerShell Empire C2 Activity by Michael C. Long II - <a href="https://www.giac.org/paper/gcfa/13277/disrupting-empire-identifying-powershell-empire-command-control-activity/152744">Link</a></li></ul>
 <ul><li>Sigma Rule: Empire PowerShell Launch Parameters - <a href="https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_powershell_empire_launch.yml">Link</a></ul></li>
 <ul><li>Sigma Rule: Empire PowerShell UAC Bypass - <a href="https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_powershell_empire_uac_bypass.yml">Link</a></ul></li>
