@@ -1,6 +1,7 @@
 # ![ThreatReportRoulette header](https://github.com/ch33r10/DEFCON29-BTV-ThreatReportRoulette/blob/main/img/ThreatReportRoulette1.png)
 <p><h3 align="center"><b>ABSTRACT</b></h3></p>
 <p align="center">Follow along as we spin the Threat Report Roulette Wheel and provide rapid fire responses to how we would create actionable takeaways from the publicly available, TLP: White Threat Reports. Pick up some tips and tricks to up your game!</p>
+<li>YouTube Video - <a href="https://youtu.be/rUAhYiDn0M0">Link</a></li>
 <hr></hr>
 <p><h1 align="left">🎲<b>INSTRUCTIONS</b></h1></p>
 Threat Report Roulette will not discuss normal (BAU) CTI actions, such as searching the logs for hits on the IOCs or entering the IOCs into a Threat Intelligence Platform (TIP) or other alerting platform. Instead, the participants will focus on pivoting, TTPs, and how they would take the contents in the Threat Report to the <b>NEXT LEVEL</b>! When the Panelists respond to the threat reports, they are operating under the assumption that they performed the preliminary analysis and deemed the threat report relevant to their environment. The purpose of this assumption is to decrease the amount of debate on whether or not something is relevant to get to the part of the analysis that involves extracting actionable takeaways. 🤜💥🤛
